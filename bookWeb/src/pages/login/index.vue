@@ -8,10 +8,10 @@
             </p>
             <Form ref="forms" :model="forms" :rules="rules">
                 <FormItem prop="userName">
-                    <Input v-model.trim="forms.userName" size="large" placeholder="请输入账号"></Input>
+                    账号：<Input v-model.trim="forms.userName" size="large" placeholder="请输入账号"></Input>
                 </FormItem>
                 <FormItem prop="password">
-                    <Input v-model.trim="forms.password" type="password" size="large" placeholder="请输入密码"></Input>
+                    密码：<Input v-model.trim="forms.password" type="password" size="large" placeholder="请输入密码"></Input>
                 </FormItem>
                 <FormItem prop="img" class="form-margin">
                     <div class="form-code">

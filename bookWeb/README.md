@@ -26,7 +26,6 @@
     3.Mongodb + Mongoose
 
 ```
-
 ## 安装
 ```js
     //使用前端之前 需要后端的项目已经运行  详情请看
@@ -37,24 +36,7 @@
 
     //打开地址 http://127.0.0.1:9898  查看
 ```
-
 **后端**
-## 技术栈
-```js
-    //前端 https://github.com/fengyaogit123/bookqd.git
-    1.vue
-    2.vue-router
-    3.vuex
-    4.iview
-    5.axios
-
-    //后端 https://github.com/fengyaogit123/bookAdmin.git
-    1.Node
-    2.Eggjs
-    3.Mongodb + Mongoose
-
-```
-
 ## 安装
 ```js
     //确认已经安装mongodb  这里默认配置是 
